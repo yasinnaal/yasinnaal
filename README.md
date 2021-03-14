@@ -2,7 +2,7 @@
 
 - :floppy_disk: I’m currently working on ... SAP ERP
 - :rocket: I’m currently learning ... Secret
-- 👯 I’m looking to collaborate on ... SAP ERP, Business enablement, Digital Transformation.
+- 👯 I’m looking to collaborate on ... SAP ERP, ML, IoT....
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... SAP ERP, ABAP, or anything... :yellow_heart:
 - :love_letter: How to reach me: ... yasin_naal@hotmail.com
