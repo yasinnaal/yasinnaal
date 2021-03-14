@@ -1,7 +1,7 @@
 ##### Hi there 👋 I'm Yasin a passionate SAP ERP ABAP developer and consultant with both technical and functional experience.
 
-- 🔭 I’m currently working on ... SAP ERP
-- 🌱 I’m currently learning ... Secret
+- :floppy_disk: I’m currently working on ... SAP ERP
+- :rocket: I’m currently learning ... Secret
 - 👯 I’m looking to collaborate on ... SAP ERP, Business enablement, Digital Transformation.
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... SAP ERP, ABAP, or anything... :yellow_heart:
