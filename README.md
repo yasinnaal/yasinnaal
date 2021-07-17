@@ -2,7 +2,7 @@
 
 - :computer: I’m currently working on: SAP ERP, Data Since.
 - :rocket: I’m currently learning: Secret.
-- 👯 I’m looking to collaborate on ... SAP ERP, ML, IoT, Data Since....
+- :chart:	 I’m looking to collaborate on: SAP ERP, ML, IoT, Data Since....
 - 💬 Ask me about ... SAP ERP, ABAP, anything... :yellow_heart:
 - :love_letter: How to reach me: yasin_naal@hotmail.com
 - Our world in data.
