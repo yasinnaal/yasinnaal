@@ -7,6 +7,6 @@
 ##### Our World in Data.
 <img src="https://github-readme-stats.vercel.app/api?username=yasinnaal&&show_icons=true&title_color=0017BB&icon_color=504F50&text_color=3B3B3B&bg_color=white">
 
-<a href="https://people.sap.com/thomas.jung#overview" rel="nofollow">
+<a href="https://people.sap.com/yasin.n#overview" rel="nofollow">
 <img src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/activity/yasin.n?png=true" /> </a>
 <img src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/yasin.n?png=true" />
