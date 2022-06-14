@@ -10,3 +10,7 @@
 <a href="https://people.sap.com/yasin.n#overview" rel="nofollow">
 <img src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/activity/yasin.n?png=true" /> </a>
 <img src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/yasin.n?png=true" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnaal&&show_icons=true&theme=dark">
+</a>
