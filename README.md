@@ -8,8 +8,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yasinnaal&&show_icons=true&theme=buefy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnaal&layout=compact">
 
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=yasinnaal&&show_icons=true&theme=buefy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnaal&layout=compact">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=yasinnaal&&show_icons=true&theme=buefy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnaal&layout=compact">
 </picture> 
 
 <a href="https://people.sap.com/yasin.n#overview" rel="nofollow">
