@@ -1,9 +1,9 @@
 
 
 #### Yasin Naal
-#### About me
+Passionate SAP ERP ABAP Consultant, SAP ERP Developer, Programmer.  
 
- Passionate SAP ERP ABAP Consultant, SAP ERP Developer, Programmer.  
+#### About me
  
 - :computer: SAP ERP ABAP Developer, SAP Technichal & Functional Consultant.
 - :rocket: I’m currently learning: Secret.
