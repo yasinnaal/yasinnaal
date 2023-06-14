@@ -1,5 +1,7 @@
 #### Hi there 👋 am Yasin
 
+ Passionate SAP ERP ABAP Consultant, SAP ERP Developer, Programmer.  
+ 
 - :computer: SAP ERP ABAP Developer, SAP Technichal & Functional Consultant.
 - :rocket: I’m currently learning: Secret.
 - 💬 Ask me about SAP ERP, ABAP, ERP, IT.
