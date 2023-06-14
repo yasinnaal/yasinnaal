@@ -5,8 +5,6 @@
 - 💬 Ask me about SAP ERP, ABAP, ERP, IT.
 - :email: yasin_naal@hotmail.com
 #### Our World in Data
-<img src="https://github-readme-stats.vercel.app/api?username=yasinnaal&&show_icons=true&theme=buefy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnaal&layout=compact">
-
 
 |![](https://github-readme-stats.vercel.app/api?username=yasinnaal&&show_icons=true&theme=buefy&hide_border=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnaal&layout=compact&hide_border=true)|
 |---|---|
