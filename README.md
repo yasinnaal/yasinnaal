@@ -4,6 +4,10 @@
 Passionate SAP ERP Manager. SAP Technichal and Functional Consultant, Developer, ABAP Programmer. <br>
 Sales Distribution (SD), Material Managment (MM), Plant Mainenance (PS), Finance (FI) 
 
+- Guide SAP ERP Projects to Success.
+- Leadership in Digital Transformation.
+- Business Process Automation in SAP. 
+
 #### About me
  
 - :computer: SAP ERP ABAP Developer, SAP Technichal & Functional Consultant.
