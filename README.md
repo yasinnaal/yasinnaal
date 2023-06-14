@@ -8,7 +8,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yasinnaal&&show_icons=true&theme=buefy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnaal&layout=compact">
 
 
-|https://github-readme-stats.vercel.app/api?username=yasinnaal&&show_icons=true&theme=buefy|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnaal&layout=compact)|
+|![](https://github-readme-stats.vercel.app/api?username=yasinnaal&&show_icons=true&theme=buefy)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnaal&layout=compact)|
 |---|---|
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnaal&layout=compact)
