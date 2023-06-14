@@ -1,7 +1,8 @@
 
 
 #### Yasin Naal
-Passionate SAP ERP ABAP Consultant, SAP ERP Developer, Programmer.  
+Passionate SAP ERP Manager. SAP Technichal and Functional Consultant, Developer, ABAP Programmer.
+Sales Distribution (SD), Material Managment (MM), Plant Mainenance (PS), Finance (FI) 
 
 #### About me
  
