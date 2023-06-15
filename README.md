@@ -7,8 +7,8 @@ Sales Distribution (SD), Material Managment (MM), Plant Mainenance (PS), Finance
 - Guide SAP ERP Projects to Success.
 - Business Process Automation in SAP.
 - Leadership in Digital Transformation.
-- The Resilient Enterprise ( Collaboration, Innovation, and Technology ).
-- The Intelligent Enterprise.
+- The Intelligent Enterprise (Experience Management, Sustainable Management).
+- The Resilient Enterprise (Collaboration, Innovation, and Technology).
 
 #### About me
  
