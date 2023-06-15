@@ -5,8 +5,10 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant, Developer,
 Sales Distribution (SD), Material Managment (MM), Plant Mainenance (PS), Finance (FI) 
 
 - Guide SAP ERP Projects to Success.
+- Business Process Automation in SAP.
 - Leadership in Digital Transformation.
-- Business Process Automation in SAP. 
+- The Resilient Enterprise.
+- Intelligent Enterprise.
 
 #### About me
  
