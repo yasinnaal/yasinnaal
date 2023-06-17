@@ -2,7 +2,6 @@
 
 #### Yasin M Naal
 Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Programmer. <br>
-Sales Distribution (SD), Material Managment (MM), Plant Mainenance (PS), Finance (FI) 
 
 - Guide SAP ERP Projects to Success.
 - Business Process Automation in SAP.
@@ -13,8 +12,8 @@ Sales Distribution (SD), Material Managment (MM), Plant Mainenance (PS), Finance
 #### About me
  
 - :computer: SAP ERP ABAP Developer, SAP Technichal & Functional Consultant.
-- :rocket: I’m currently learning: Secret.
-- 💬 Ask me about SAP ERP, ABAP, ERP, IT.
+- :rocket: I’m currently learning: Secret Project.
+- 💬 Ask me about SAP ERP, ERP, ABAP.
 - :email: yasin_naal@hotmail.com
 #### Our World in Data
 
