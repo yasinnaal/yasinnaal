@@ -5,7 +5,7 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 
 - Guide SAP ERP Projects to Success.
 - Business Process Automation in SAP.
-- Leadership in Digital Transformation.
+- Digital Transformation.
 - The Intelligent Enterprise (Experience Management, Sustainable Management).
 - The Resilient Enterprise (Collaboration, Innovation, and Technology).
 
