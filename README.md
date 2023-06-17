@@ -10,9 +10,16 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 - The Resilient Enterprise (Collaboration, Innovation, and Technology).
 
 **Business Modules Handled**<br>
-(SD) Sales Distribution <br> (MM) Material Management <br> (PP) Production Planning <br> (PS) Plant Maintenance <br> (FI) Finance <br>
-(CO) Controlling <br> (WM) Warehouse Management <br> (EWM) Extended Warehouse Management <br> (HCM) Human Capital Management <br>
-(BI) Business Intelligence <br>
+- (SD) Sales Distribution
+- (MM) Material Management 
+- (WM) Warehouse Management
+- (EWM) Extended Warehouse Management 
+- (PP) Production Planning
+- (PS) Plant Maintenance
+- (FI) Finance
+- (CO) Controlling
+- (HCM) Human Capital Management
+- (BI) Business Intelligence 
 
 #### About me
  
@@ -20,7 +27,8 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 - :rocket: I’m currently learning: Secret Project.
 - 💬 Ask me about SAP ERP, ERP, ABAP.
 - :email: yasin_naal@hotmail.com
-#### Our World in Data
+- 
+#### My World in Data... Hello World!
 
 |![](https://github-readme-stats.vercel.app/api?username=yasinnaal&&show_icons=true&theme=buefy&hide_border=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnaal&layout=compact&hide_border=true)|
 |---|---|
