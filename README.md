@@ -10,9 +10,9 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 - The Resilient Enterprise (Collaboration, Innovation, and Technology).
 
 **Business Modules Handled**<br>
-(SD) Sales Distribution, (MM) Material Management, (PP) Production Planning, (PS) Plant Maintenance, (FI) Finance 
-(CO) Controlling, (WM) Warehouse Management , (EWM) Extended Warehouse Management. (HCM) Human Capital Management,
-(BI) Business Intelligence.
+(SD) Sales Distribution <br> (MM) Material Management <br> (PP) Production Planning <br> (PS) Plant Maintenance <br> (FI) Finance <br>
+(CO) Controlling <br> (WM) Warehouse Management <br> (EWM) Extended Warehouse Management <br> (HCM) Human Capital Management <br>
+(BI) Business Intelligence <br>
 
 #### About me
  
