@@ -4,10 +4,11 @@
 Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Programmer. <br>
 
 - Guide SAP ERP Projects to Success.
-- Business Process Automation in SAP.
 - Digital Transformation.
+- Business Process Automation
 - The Intelligent Enterprise (Experience Management, Sustainable Management).
 - The Resilient Enterprise (Collaboration, Innovation, and Technology).
+
 
 **Business Modules Handled**<br>
 - (SD) Sales Distribution
