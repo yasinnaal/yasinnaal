@@ -6,7 +6,7 @@
 Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Programmer. <br>
 
 - Guide SAP ERP Projects to Success.
-- SAP Certified Authorization and Security Consultant.
+- SAP Certified Authorization Consultant.
 - Digital Transformation.
 - Streamline Business Process.
 - Holding Companies, Shared Services.
