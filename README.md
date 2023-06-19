@@ -1,7 +1,6 @@
 
 
 #### Yasin M Naal
-AI: Helping People, Automating People not replcing them.
 
 [![GitHub Up to Date](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/actions/workflows/rep-actions.yml/badge.svg)](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/actions/workflows/rep-actions.yml)
 
@@ -37,7 +36,10 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 - 💬 Ask me about anything [here](https://github.com/yasinnaal/yasinnaal/issues)
 - :email: yasin_naal@hotmail.com 
 
+
 #### My World in Data... Hello World!
+
+AI: Helping People, Automating People not replcing them.
 
 |![](https://github-readme-stats.vercel.app/api?username=yasinnaal&&show_icons=true&theme=buefy&hide_border=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnaal&layout=compact&hide_border=true)|
 |---|---|
