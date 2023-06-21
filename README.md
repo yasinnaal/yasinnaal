@@ -18,7 +18,7 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 
 <br>
 
-**Business Modules Handled**<br>
+**SAP Business Modules Handled**<br>
 - (SD) Sales Distribution
 - (MM) Material Management 
 - (WM) Warehouse Management
