@@ -7,6 +7,9 @@ Helping, Automating People not replacing them.
 
 Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Programmer. <br>
 
+- Business Analyst.
+- Application Developer.
+- Application Consultant.
 - Guide SAP ERP Projects to Success.
 - SAP Certified Authorization Consultant.
 - Digital Transformation.
@@ -15,6 +18,7 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 - The Intelligent Enterprise.
 - The Resilient Enterprise.
 - DevOps, CI/CD (SAP Three-System Landscape).
+
 
 <br>
 
