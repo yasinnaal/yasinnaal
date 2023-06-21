@@ -28,7 +28,17 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 - (PS) Plant Maintenance
 - (CO) Controlling
 - (HCM) Human Capital Management
-- (BI) Business Intelligence 
+- (BI) Business Intelligence
+
+**Some of SAP Projects Completed*<br>
+
+- SAP Full cycle Implementation.
+- SAP EMS/MSS Implementation.
+- SAP E-Invoicing (FATOORAH) Implementation.
+- SAP VAT Tax implantation.
+- SAP DMS implementation
+- SAP ITSM ticketing system Implementation.
+- Material master data localization. 
 
 #### About me
  
