@@ -30,7 +30,7 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 - (HCM) Human Capital Management
 - (BI) Business Intelligence
 
-**Some of SAP Projects Completed*<br>
+**Some of SAP Projects Completed**<br>
 
 - SAP Full cycle Implementation.
 - SAP EMS/MSS Implementation.
