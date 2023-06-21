@@ -33,7 +33,7 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 #### About me
  
 - :computer: SAP ERP Expert.
-- :rocket: I’m currently learning: Secret Project.
+- :rocket: I’m currently learning: secret project.
 - 💬 Ask me about anything [here](https://github.com/yasinnaal/yasinnaal/issues)
 - :email: yasin_naal@hotmail.com 
 
