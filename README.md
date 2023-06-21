@@ -32,7 +32,7 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 
 **Some of SAP Projects Completed**<br>
 
-- SAP Full cycle Implementation.
+- SAP ERP Full cycle Implementation.
 - SAP EMS/MSS Implementation.
 - SAP E-Invoicing (FATOORAH) Implementation.
 - SAP VAT Tax implantation.
