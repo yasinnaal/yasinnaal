@@ -17,6 +17,7 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 - Holding Companies, Shared Services.
 - The Intelligent Enterprise.
 - The Resilient Enterprise.
+- IT as a Driving Force for Digital Transformation.
 - DevOps, CI/CD (SAP Three-System Landscape).
 
 
