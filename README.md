@@ -46,14 +46,6 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 - SAP ITSM & ChaRM implementation.
 - Material master data localization. 
 
-#### About me
- 
-- :computer: SAP ERP Expert.
-- :rocket: I’m currently learning: secret project.
-- 💬 Ask me about anything [here](https://github.com/yasinnaal/yasinnaal/issues)
-- :email: yasin_naal@hotmail.com 
-
-
 **Programming Languages**
 
 `ABAP`, `HTML`, `Javascript`, `CSS3`, `Python`, `VB.NET`, `C#`
@@ -63,6 +55,14 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 `ORACLE`, `SYBASE ACE`, `MS SQL`, `MySQL`
 
 <br>
+
+#### About me
+ 
+- :computer: SAP ERP Expert.
+- :rocket: I’m currently learning: secret project.
+- 💬 Ask me about anything [here](https://github.com/yasinnaal/yasinnaal/issues)
+- :email: yasin_naal@hotmail.com 
+
 
 #### My World in Data... Hello World!
 
