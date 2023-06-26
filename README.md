@@ -10,7 +10,9 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 - SAP Certified Security Consultant.
 - SAP ERP Functional Consultant.
 - SAP ERP Developer.
+- Report Developer. 
 - Business Analyst.
+- Data Analyst.  
 - Guide SAP Projects to Success.
 - Business Processes. 
 - Holding Companies, Shared Services.
@@ -18,7 +20,6 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 - IT as a Driving Force for Digital Transformation.
 - The Intelligent Enterprise.
 - The Resilient Enterprise.
-- Data Analyst.
 - DevOps, CI/CD (SAP Three-System Landscape).
 
 
