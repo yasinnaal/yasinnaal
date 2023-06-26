@@ -8,17 +8,17 @@ Helping, Automating People not replacing them.
 Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Programmer. <br>
 
 - SAP Certified Security Consultant.
-- Guide SAP Projects to Success.
-- Business Analyst.
 - SAP ERP Functional Consultant.
 - SAP ERP Developer.
-- Data Analyst.
+- Business Analyst.
+- Guide SAP Projects to Success.
 - Business Processes. 
 - Holding Companies, Shared Services.
 - Digital Transformation.
 - IT as a Driving Force for Digital Transformation.
 - The Intelligent Enterprise.
 - The Resilient Enterprise.
+- Data Analyst.
 - DevOps, CI/CD (SAP Three-System Landscape).
 
 
