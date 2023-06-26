@@ -40,10 +40,10 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 
 - SAP ERP Full cycle Implementation.
 - SAP EMS/MSS Implementation.
-- SAP E-Invoicing (FATOORAH) Implementation.
+- SAP E-Invoicing (KSA) Implementation.
 - SAP VAT Tax implantation.
 - SAP DMS implementation
-- SAP ITSM ticketing system Implementation.
+- SAP ITSM & ChaRM Implementation.
 - Material master data localization. 
 
 #### About me
@@ -55,6 +55,14 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 
 
 #### My World in Data... Hello World!
+
+|Programming Languages|Databses|
+|---|---|
+|ABAP|ORACLE|
+|HTML, Javascript, CSS3, PHP|SYBASE ACE|
+|Python|MS SQL|
+|C#||
+|VB.NET||
 
 |![](https://github-readme-stats.vercel.app/api?username=yasinnaal&&show_icons=true&theme=buefy&hide_border=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnaal&layout=compact&hide_border=true)|
 |---|---|
