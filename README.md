@@ -54,8 +54,6 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 
 `ORACLE`, `SYBASE ACE`, `MS SQL`, `MySQL`
 
-<br>
-
 #### About me
  
 - :computer: SAP ERP Expert.
