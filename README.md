@@ -54,8 +54,6 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 - :email: yasin_naal@hotmail.com 
 
 
-#### My World in Data... Hello World!
-
 **Programming Languages**
 
 `ABAP`, `HTML`, `Javascript`, `CSS3`, `Python`, `VB.NET`, `C#`
@@ -65,6 +63,8 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 `ORACLE`, `SYBASE ACE`, `MS SQL`, `MySQL`
 
 <br>
+
+#### My World in Data... Hello World!
 
 |![](https://github-readme-stats.vercel.app/api?username=yasinnaal&&show_icons=true&theme=buefy&hide_border=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnaal&layout=compact&hide_border=true)|
 |---|---|
