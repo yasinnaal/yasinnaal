@@ -48,7 +48,7 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 
 **Programming Languages**
 
-`ABAP`, `HTML`, `Javascript`, `CSS3`, `Python`, `VB.NET`, `C#`
+`ABAP`, `Java`, `HTML`, `Javascript`, `CSS3`, `Python`, `VB.NET`, `C#`
 
 **Databses**
 
