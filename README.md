@@ -38,12 +38,12 @@ Passionate SAP ERP Manager. SAP Technichal and Functional Consultant. ABAP Progr
 
 **Some of SAP Projects Completed**<br>
 
-- SAP ERP Full cycle Implementation.
-- SAP EMS/MSS Implementation.
-- SAP E-Invoicing (KSA) Implementation.
+- SAP ERP full cycle implementation.
+- SAP EMS/MSS implementation.
+- SAP E-Invoicing (KSA) implementation.
 - SAP VAT Tax implantation.
 - SAP DMS implementation
-- SAP ITSM & ChaRM Implementation.
+- SAP ITSM & ChaRM implementation.
 - Material master data localization. 
 
 #### About me
