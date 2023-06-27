@@ -15,7 +15,7 @@ Enterprise mission-critical and cross-functional reports developer. <br>
 - Business Analyst.
 - Data Analyst.  
 - Guide SAP Projects to Success.
-- Optimize Business Processes. 
+- Business Processes Optimization. 
 - Holding Companies, Shared Services.
 - Digital Transformation.
 - IT as a Driving Force for Digital Transformation.
