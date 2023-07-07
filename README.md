@@ -17,10 +17,6 @@ Enterprise mission-critical and cross-functional reports developer. <br>
 - Guide SAP Projects to Success.
 - Business Processes Optimization. 
 - Holding Companies, Shared Services.
-- Digital Transformation.
-- IT as a Driving Force for Digital Transformation.
-- The Intelligent Enterprise.
-- The Resilient Enterprise.
 - DevOps, CI/CD (SAP Three-System Landscape).
 
 
