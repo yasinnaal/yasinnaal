@@ -24,10 +24,14 @@ Enterprise mission-critical and cross-functional reports developer. <br>
 
 **SAP Business Modules Handled**<br>
 - (FI) Finance
+- (FICO) Finance Controlling
 - (SD) Sales Distribution 
   - SD Billing
   - SD Sales
-- (MM) Material Management 
+- (MM) Materials Management
+  - MM Purchasing
+  - MM Invoicing
+  - MM Materials Management
 - (WM) Warehouse Management
 - (EWM) Extended Warehouse Management 
 - (PP) Production Planning
