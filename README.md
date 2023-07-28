@@ -24,7 +24,9 @@ Enterprise mission-critical and cross-functional reports developer. <br>
 
 **SAP Business Modules Handled**<br>
 - (FI) Finance
-- (SD) Sales Distribution
+- (SD) Sales Distribution 
+  - SD Billing
+  - SD Sales
 - (MM) Material Management 
 - (WM) Warehouse Management
 - (EWM) Extended Warehouse Management 
