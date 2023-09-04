@@ -11,7 +11,7 @@ Enterprise mission-critical and cross-functional reports developer. <br>
 - SAP Certified Security Consultant.
 - SAP ERP Functional Consultant.
 - SAP ERP Developer.
-- Report Developer. 
+- Reports Developer. 
 - Business Analyst.
 - Data Analyst.  
 - Guide SAP Projects to Success.
