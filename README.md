@@ -38,7 +38,6 @@ Enterprise mission-critical and cross-functional reports developer. <br>
 - (PS) Plant Maintenance
 - (CO) Controlling
 - (HCM) Human Capital Management
-- (BI) Business Intelligence
 
 **Some of SAP Projects Completed**<br>
 
