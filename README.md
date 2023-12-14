@@ -5,12 +5,11 @@ Helping, Automating People not replacing them.
 
 [![GitHub Up to Date](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/actions/workflows/rep-actions.yml/badge.svg)](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/actions/workflows/rep-actions.yml)
 
-Passionate SAP ERP Manager. SAP technichal & functional consultant. ABAP programmer. <br><br>
+Passionate SAP ERP Developer. SAP Technichal & Functional consultant. ABAP programmer. <br><br>
 Enterprise mission-critical and cross-functional reports developer. <br>
 
 - SAP Certified Security Consultant.
-- SAP ERP Functional Consultant.
-- SAP ERP Developer.
+- SAP ERP Developer & Consultant.
 - Reports Developer. 
 - Business Analyst.
 - Data Analyst.  
