@@ -9,7 +9,7 @@ Passionate SAP ERP Developer. SAP Technichal & Functional consultant. ABAP progr
 Enterprise mission-critical and cross-functional reports developer. <br>
 
 - SAP Certified Security Consultant.
-- SAP ERP Developer & Consultant.
+- SAP ABAP Developer.
 - Reports Developer. 
 - Business Analyst.
 - Data Analyst.  
