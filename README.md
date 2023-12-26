@@ -14,7 +14,8 @@ Enterprise mission-critical and cross-functional reports developer. <br>
 - Business Analyst.
 - Data Analyst.  
 - Guide SAP Projects to Success.
-- Business Processes Optimization. 
+- Business Processes Optimization.
+- Streamline Business Processes.
 - Holding Companies, Shared Services.
 - DevOps, CI/CD (SAP Three-System Landscape).
 
