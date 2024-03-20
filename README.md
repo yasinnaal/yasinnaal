@@ -19,25 +19,7 @@ Enterprise mission-critical and cross-functional reports developer. <br>
 - Holding Companies, Shared Services.
 - DevOps, CI/CD (SAP Three-System Landscape).
 
-
 <br>
-
-**SAP Business Modules Handled**<br>
-- (FI) Finance
-- (FICO) Finance Controlling
-- (SD) Sales Distribution 
-  - SD Billing
-  - SD Sales
-- (MM) Materials Management
-  - MM Purchasing
-  - MM Invoicing
-  - MM Materials Management
-- (WM) Warehouse Management
-- (EWM) Extended Warehouse Management 
-- (PP) Production Planning
-- (PS) Plant Maintenance
-- (CO) Controlling
-- (HCM) Human Capital Management
 
 **Some of SAP Projects Completed**<br>
 
