@@ -25,7 +25,7 @@ Enterprise mission-critical and cross-functional reports developer. <br>
 
 - SAP ERP full cycle implementation.
 - SAP EMS/MSS implementation.
-- SAP E-Invoicing (KSA) implementation.
+- SAP E-Invoicing implementation.
 - SAP VAT Tax implantation.
 - SAP DMS implementation
 - SAP ITSM & ChaRM implementation.
