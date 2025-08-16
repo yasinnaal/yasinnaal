@@ -53,8 +53,3 @@ Enterprise mission-critical and cross-functional reports developer. <br>
 |---|---|
 
 
-<a href="https://people.sap.com/yasin.n#overview" rel="nofollow">
-<img src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/activity/yasin.n?png=true" /> </a>
-<br>
-<a href="https://people.sap.com/yasin.n#overview" rel="nofollow">
-<img src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/yasin.n?png=true" /> </a>
