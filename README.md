@@ -49,7 +49,7 @@ Enterprise mission-critical and cross-functional reports developer. <br>
 - 📧: yasin_naal@hotmail.com 
 
 
-#### Hello World!My World in Data.
+#### Hello World !. My World in Data.
 
 |![](https://github-readme-stats.vercel.app/api?username=yasinnaal&&show_icons=true&theme=buefy&hide_border=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnaal&layout=compact&hide_border=true)|
 |---|---|
