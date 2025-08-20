@@ -45,7 +45,7 @@ Enterprise mission-critical and cross-functional reports developer. <br>
  
 - :computer: SAP ERP Expert.
 - :rocket: I’m currently learning: (secret).
-- 💬 Ask me about anything [here](https://github.com/yasinnaal/yasinnaal/issues)
+- 💬 Ask me about anything [Github](https://github.com/yasinnaal/yasinnaal/issues)
 - :email: yasin_naal@hotmail.com 
 
 
