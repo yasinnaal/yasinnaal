@@ -14,7 +14,7 @@ Enterprise mission-critical and cross-functional reports developer. <br>
 - SAP ABAP Developer.
 - Reports Developer. 
 - Business Analyst.
-- Data Analyst.  
+- Data Analyst.
 - Guide SAP Projects to Success.
 - Business Processes Optimization.
 - Streamline Business Processes.
@@ -29,8 +29,8 @@ Enterprise mission-critical and cross-functional reports developer. <br>
 - SAP EMS/MSS implementation.
 - SAP E-Invoicing implementation.
 - SAP VAT Tax implantation.
-- SAP DMS implementation
-- SAP IT Service Management (ITSM) implementation 
+- SAP DMS implementation.
+- SAP IT Service Management (ITSM) implementation. 
 - SAP Change Request Management (ChaRM) implementation.
 - Workflow.
 - Material master data localization. 
