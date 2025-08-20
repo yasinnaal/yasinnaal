@@ -23,14 +23,16 @@ Enterprise mission-critical and cross-functional reports developer. <br>
 
 <br>
 
-**Some of SAP Projects Completed**<br>
+**Some SAP Projects Completed**<br>
 
 - SAP ERP full cycle implementation.
 - SAP EMS/MSS implementation.
 - SAP E-Invoicing implementation.
 - SAP VAT Tax implantation.
 - SAP DMS implementation
-- SAP ITSM & ChaRM implementation.
+- SAP IT Service Management (ITSM) implementation 
+- SAP Change Request Management (ChaRM) implementation.
+- Workflow.
 - Material master data localization. 
 
 **Programming Languages**
@@ -49,7 +51,7 @@ Enterprise mission-critical and cross-functional reports developer. <br>
 - 📧: yasin_naal@hotmail.com 
 
 
-#### Hello World !. My World in Data.
+#### Hello World ! My World in Data.
 
 |![](https://github-readme-stats.vercel.app/api?username=yasinnaal&&show_icons=true&theme=buefy&hide_border=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnaal&layout=compact&hide_border=true)|
 |---|---|
