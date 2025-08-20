@@ -1,7 +1,7 @@
 
 
 #### Yasin Naal
-Helping, Automating People not replacing them.
+Helping & Automating people not replacing them.
 
 [![GitHub Up to Date](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/actions/workflows/rep-actions.yml/badge.svg)](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/actions/workflows/rep-actions.yml)
 
