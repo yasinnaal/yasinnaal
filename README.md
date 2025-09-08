@@ -7,8 +7,8 @@ Helping & automating people not replacing them.
 
 SAP ERP Developer. SAP Principal Consultant. 
 SAP ABAP Programmer.<br>
-Web Developer.  <br>
 Enterprise mission-critical and cross-functional reports developer. <br>
+Web Developer.  <br>
 
 - SAP Certified Security Consultant.
 - SAP ABAP Developer.
