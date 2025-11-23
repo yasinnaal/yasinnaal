@@ -7,7 +7,7 @@ Helping & Automating People Not Replacing Them.
 
 SAP ERP Developer (ABAP).<br>
 SAP Principal Consultant. <br>
-Enterprise mission-critical and cross-functional reports developer. <br>
+Enterprise mission-critical & cross-functional reports developer. <br>
 Web Developer.  <br>
 
 - SAP Certified Security Consultant.
@@ -48,8 +48,7 @@ Web Developer.  <br>
 - :computer: SAP ERP Expert.
 - :rocket: I’m currently learning: (secret).
 - 💬 Ask me about anything [Github](https://github.com/yasinnaal/yasinnaal/issues)
-- 📧: yasin_naal@hotmail.com 
-
+- 📧: ithome0011@gmail.com
 
 #### My World in Data !
 
