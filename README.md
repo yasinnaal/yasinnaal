@@ -28,7 +28,8 @@ Enterprise mission-critical & cross-functional reports development. <br>
 - SAP DMS implementation.
 - SAP IT Service Management (ITSM) implementation. 
 - SAP Change Request Management (ChaRM) implementation.
-- Workflow.
+- Enroll New company code
+- Full procurment process configuration (PR, PO, Release Strategy)  
 - Material master data localization. 
 
 **Programming Languages**
