@@ -10,7 +10,7 @@ SAP Principal Consultant. <br>
 Enterprise mission-critical & cross-functional reports development. <br>
 Web Developer.  <br>
 
-- SAP Certified Security Consultant.
+- SAP Certified Technolgy Consultant.
 - SAP ABAP Developer.
 - Reports Developer. 
 - Business Analyst.
