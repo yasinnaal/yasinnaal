@@ -52,9 +52,5 @@ Enterprise mission-critical & cross-functional reports development. <br>
 - 💬 Ask me about anything [Github](https://github.com/yasinnaal/yasinnaal/issues)
 - 📧: ithome0011@gmail.com
 
-#### My World in Data !
-
-|![](https://github-readme-stats.vercel.app/api?username=yasinnaal&&show_icons=true&theme=buefy&hide_border=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnaal&layout=compact&hide_border=true)|
-|---|---|
 
 
