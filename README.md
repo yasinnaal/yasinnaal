@@ -21,16 +21,16 @@ Enterprise mission-critical & cross-functional reports development. <br>
 
 **SAP Projects Involved**<br>
 
-- SAP ERP full cycle implementation.
-- SAP EMS/MSS implementation.
-- SAP E-Invoicing implementation.
-- SAP VAT Tax implantation.
-- SAP DMS implementation.
-- SAP IT Service Management (ITSM) implementation. 
-- SAP Change Request Management (ChaRM) implementation.
+- SAP ERP full cycle implementation
+- SAP EMS/MSS implementation
+- SAP E-Invoicing implementation
+- SAP VAT Tax implantation
+- SAP DMS implementation
+- SAP IT Service Management (ITSM) implementation
+- SAP Change Request Management (ChaRM) implementation
 - Enroll New company code
 - Full procurment process configuration (PR, PO, Release Strategy)  
-- Material master data localization. 
+- Material master data localization 
 
 **Programming Languages**
 
