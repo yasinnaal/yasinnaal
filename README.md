@@ -14,14 +14,12 @@ Enterprise mission-critical & cross-functional reports development. <br>
 - Business Analyst.
 - Data Analyst.
 - Guide SAP Projects to Success.
-- Business Processes Optimization.
-- Streamline Business Processes.
-- Holding Companies, Shared Services.
+- Streamline & Optimize Business Processes.
 - DevOps, CI/CD (SAP Three-System Landscape).
 
 <br>
 
-**Some SAP Projects Completed**<br>
+**SAP Projects Involved**<br>
 
 - SAP ERP full cycle implementation.
 - SAP EMS/MSS implementation.
