@@ -29,7 +29,7 @@ Enterprise mission-critical & cross-functional reports development. <br>
 - SAP IT Service Management (ITSM) implementation
 - SAP Change Request Management (ChaRM) implementation
 - Enroll New company code
-- Full procurment process configuration (PR, PO, Release Strategy)  
+- Full procurment processes configuration (PR, PO, Release Strategy)  
 - Material master data localization 
 
 **Programming Languages**
