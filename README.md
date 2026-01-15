@@ -35,6 +35,11 @@ Enterprise mission-critical & cross-functional reports development. <br>
 
 `ABAP`, `Java`, `HTML`, `Javascript`, `CSS3`, `Python`, `VB.NET`, `C#`
 
+**SAP Modules**
+
+`SD`, `MM`, `HR`, `QM`, `PP`, `FI`
+
+
 **Databses**
 
 `ORACLE`, `SYBASE ACE`, `MaxDB`, `MS SQL`, `MySQL`
