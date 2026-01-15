@@ -37,7 +37,7 @@ Enterprise mission-critical & cross-functional reports development. <br>
 
 **Databses**
 
-`ORACLE`, `SYBASE ACE`, `MS SQL`, `MySQL`
+`ORACLE`, `SYBASE ACE`, `MaxDB`, `MS SQL`, `MySQL`
 
 #### About me
  
