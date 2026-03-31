@@ -6,7 +6,7 @@ Helping & Automating People Not Replacing Them.
 [![GitHub Up to Date](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/actions/workflows/rep-actions.yml/badge.svg)](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/actions/workflows/rep-actions.yml)
 
 SAP Principal Consultant & ABAP Developer.<br>
-Enterprise mission-critical & cross-functional reports development. <br>
+Enterprise & cross-functional reports development. <br>
 
 - SAP Certified Technology Consultant.
 - SAP ABAP Developer.
